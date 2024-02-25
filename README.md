@@ -18,5 +18,4 @@ Welcome to the VisionLit API repository, a treasure trove for developers looking
 
 Whether you're a seasoned developer or just starting, VisionLit API offers the tools to bring your creative vision to life. Explore the examples, and imagine the possibilities as you integrate cutting-edge computer vision technology into your next project.
 
-
-Check our web platform https://myvisionlit.com
+For more live applications and to get access to the API, be sure to visit our web platform at [https://myvisionlit.com](https://myvisionlit.com). Dive deeper into the world of computer vision and discover how VisionLit can elevate your projects to new heights. Explore, experiment, and enhance your applications with our cutting-edge technology today.
